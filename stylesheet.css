@@ -1,0 +1,87 @@
+#container{
+    width:800px;
+    margin:auto;
+}
+
+
+#header{
+    height:100px;
+    width:720px;
+    border:solid black 1px;
+    border-radius:5px;
+    margin-top:-15px;
+    margin-bottom:10px;
+    background-color:#63707A;
+    position:fixed;
+}
+
+.name{
+    float:left;
+    margin-left:20px;
+    margin-top:5px;
+}
+#info{
+    float:right;
+    margin-right:20px;
+    margin-top:5px;
+    color:black;
+}
+#address{
+    float:left;
+    margin-left:20px;
+}
+#phone{
+    float:right;
+    margin-right:20px;
+}
+
+.align{
+   margin-left:20px; 
+}
+    
+.left{
+    height:1000px;
+    width:150px;
+    border:solid black 1px;
+    border-radius:5px;
+    float:left;
+    margin-top:100px;
+    margin-bottom:10px;
+    background-color:#55604C;
+    vertical-align:bottom;
+    
+}
+.right{
+    height:1000px;
+    width:557px;
+    border:solid black 1px;
+    border-radius:5px;
+    margin-bottom:10px;
+    margin-top:100px;
+    margin-left:10px;
+    display:inline-block;
+   background-color:#83887E;
+}
+#footer{
+    height:100px;
+    width:720px;
+    border:solid black 1px;
+    border-radius:5px;
+    clear:both;
+   background-color:#63707A;
+}
+h2{
+    margin-left:20px;
+    border-bottom:1px solid;
+}
+
+img{
+    height:100px;
+    width:100px;
+    display:block;
+    margin-left:25px;
+    margin-top:5px;
+    border-radius:5px;
+    position:fixed;
+    
+}
